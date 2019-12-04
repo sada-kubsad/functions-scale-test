@@ -1,1 +1,2 @@
-# functions-scale-test
+# Azure Functions Weather Demo
+
